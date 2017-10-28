@@ -1,1 +1,1 @@
-test
+ViteSpirite librairies
