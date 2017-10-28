@@ -1,5 +1,5 @@
 /*
-		Fichier : vs_boxmsg.inc
+		Fichier : vsl_tdmsg.inc
 		
 		Created by : Vitespirite
 			Date : 28/10/2017
